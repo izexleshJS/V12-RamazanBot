@@ -421,7 +421,7 @@ client.on('message', msg => {
    	msg.reply('Ve Aleykümselam');
   }
     if (msg.content === '!yardım') {
-   	msg.reply('!bul = Yazarak İstediğiniz Şehrin İftar Saatine Bakarasınız \n susadım = Sizlere mesajlar atar \n acıktım = Sizlere mesajlar atar');
+   	msg.reply('!iftar = Yazarak istediğiniz şehirin iftar saatine bakarsınız \n susadım = Sizlere mesajlar atar \n acıktım = Sizlere mesajlar atar \n iftar ne zaman = Sizlere mesajlar atar \n iftara ne kadar kaldı = Sizlere mesajlar atar');
   }
 
 });
