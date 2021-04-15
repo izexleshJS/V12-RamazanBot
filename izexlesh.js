@@ -425,4 +425,4 @@ client.on('message', msg => {
   }
 
 });
-client.login(process.env.token); //Tokeni .env giriniz eğer ayarlar.json girmek istiyotsanız = client.login(ayarlar.token); yapınız!
+client.login(ayarlar.token); //Tokeni .env giriniz eğer ayarlar.json girmek istiyotsanız = client.login(ayarlar.token); yapınız!
