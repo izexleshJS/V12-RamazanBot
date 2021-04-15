@@ -1,4 +1,4 @@
-# RamazanBotu
+# V12 Ramazan Botu Altyapısı!
 Merhabalar güzel bir ramazan botu ile karşınızdayım bu botun altyapısı **botclub.net** için hazırlanmıştır iyi kullanmalar! 
 Botumuzun **Yardım** menüsü izexlsh.jsde aşağıda yardım komutunun prefixsini ayrı değiştiriyorsunuz halledersiniz siz.
 
