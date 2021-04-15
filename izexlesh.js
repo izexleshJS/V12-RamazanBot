@@ -7,7 +7,7 @@ client.on('ready', () => {
   client.user.setActivity('Hoş geldin Ramazan !yardım | botclub.net', {type: "WATCHING"});
 });
 client.on('message', msg => {
-  if (msg.content === prefix + 'bul') {
+  if (msg.content === prefix + 'iftar') {
   	if (msg.author.bot) return;
    	msg.reply(' !iftar [Şehir İsmi] | Şehirin baş harfi büyük olacak şekilde yazınız!');
   }
