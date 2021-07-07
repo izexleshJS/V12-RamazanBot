@@ -1,5 +1,5 @@
 # V12 Ramazan Botu Altyapısı!
-Merhabalar güzel bir ramazan botu ile karşınızdayım bu botun altyapısı **botclub.net** için hazırlanmıştır iyi kullanmalar! 
+Merhabalar güzel bir ramazan botu ile karşınızdayım bu botun altyapısı **Ramazana** özel hazırlanmıştır iyi kullanmalar! 
 Botumuzun **Yardım** menüsü izexlsh.jsde aşağıda yardım komutunun prefixsini ayrı değiştiriyorsunuz halledersiniz siz.
 
 **İftar Saatini bulmak için [(prefix)iftar İstanbul] vb. yazınız her zaman şehrin baş harfi büyük olucak şekilde!**
