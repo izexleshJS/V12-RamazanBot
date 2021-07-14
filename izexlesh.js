@@ -4,7 +4,7 @@ const ayarlar = require('./ayarlar.json')
 var prefix = ayarlar.prefix;
 client.on('ready', () => {
   console.log(`Ahhh aahhh nerde o eski ramazanlar  ${client.user.username}!`);
-  client.user.setActivity('Hoş geldin Ramazan !yardım | botclub.net', {type: "WATCHING"});
+  client.user.setActivity('Hoş geldin Ramazan !yardım', {type: "WATCHING"});
 });
 client.on('message', msg => {
   if (msg.content === prefix + 'iftar') {
